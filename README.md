@@ -1,4 +1,4 @@
-🎶 Music Playlist Manager
+## 🎶 Music Playlist Manager
 
 Description:-
 
@@ -44,6 +44,6 @@ Use Cases:
 
 4. A simple foundation for building more advanced music apps.
 
-📌 Author
+## 📌 Author
 
 👤 Developed by [Somdeb Saha] – exploring the world of Python and building cool projects.
